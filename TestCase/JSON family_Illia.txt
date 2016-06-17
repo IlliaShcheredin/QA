@@ -1,0 +1,32 @@
+[
+	{
+		"sex":"female",
+		"name":"Larisa",
+		"relationship":"mother",
+		"age":"67"
+	},
+	{
+		"sex":"male",
+		"name":"Leonid",
+		"relationship":"father",
+		"age":"68",		
+	},
+	{
+		"sex":"male",
+		"name":"Maxim",
+		"relationship":"brother",
+		"age":"41",
+	}
+	{
+		"sex":"female",
+		"name":"Viktoria",
+		"relationship":"wife",
+		"age":"29"
+	},
+	{
+		"sex":"male",
+		"name":"Arkadiy",
+		"relationship":"son",
+		"age":"7"
+	},
+]
