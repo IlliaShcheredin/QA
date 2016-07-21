@@ -1,9 +1,0 @@
-1. All users:
-.//*[@id='user-list']
-
-2. All admins:
-???
-
-3.
-Allphonenumbers:
-.//p
